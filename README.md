@@ -137,16 +137,23 @@ docker run -it -p 8888:8888 brainvision
 
 ---
 
-## 📈 Models Compared
+## 🧠 Models
 
-| Model | Type |
-|--------|------|
-| CNN | Custom |
-| ResNet18 | Transfer Learning |
-| ResNet50 | Transfer Learning |
-| EfficientNet-B0 | Transfer Learning |
-| DenseNet121 | Transfer Learning |
-| MobileNetV3 | Transfer Learning |
+This project benchmarks multiple Convolutional Neural Network (CNN) architectures for multi-class brain tumor MRI classification.
+
+| Model | Type | Status |
+|--------|------|--------|
+| CNN | Custom CNN (Built from Scratch) | ✅ |
+| ResNet18 | Transfer Learning | ✅ |
+| ResNet50 | Transfer Learning | 🚧 |
+| EfficientNet-B0 | Transfer Learning | 🚧 |
+| DenseNet121 | Transfer Learning | 🚧 |
+| MobileNetV3 | Transfer Learning | 🚧 |
+
+**Legend**
+
+- ✅ Completed
+- 🚧 Planned / In Progress
 
 ---
 
