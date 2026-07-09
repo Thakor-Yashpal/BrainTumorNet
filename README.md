@@ -36,7 +36,7 @@ This project uses the **Brain Tumor MRI Dataset** created by **Masoud Nickparvar
 
 **Dataset Link**
 
-https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset :contentReference[oaicite:0]{index=0}
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
 ### Dataset Structure
 
