@@ -32,6 +32,14 @@ The objective is to compare model performance and identify the most effective ar
 
 ## 📂 Dataset
 
+This project uses the **Brain Tumor MRI Dataset** created by **Masoud Nickparvar**, available on Kaggle.
+
+**Dataset Link**
+
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset :contentReference[oaicite:0]{index=0}
+
+### Dataset Structure
+
 ```
 Dataset/
 │
@@ -47,6 +55,15 @@ Dataset/
     ├── notumor/
     └── pituitary/
 ```
+
+### Classes
+
+- Glioma
+- Meningioma
+- Pituitary
+- No Tumor
+
+The dataset contains brain MRI images organized into four categories for multi-class image classification. It is designed for developing and evaluating deep learning models for automatic brain tumor classification. :contentReference[oaicite:1]{index=1}
 
 ---
 
